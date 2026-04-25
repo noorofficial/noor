@@ -1,0 +1,110 @@
+# Noor
+
+> Noor is an Indian digital creator and web tools developer based in West Bengal, India. Known online as Mr. Noor, he builds free web tools, SEO-optimized websites, Android apps, and Bengali-language content for Indian audiences. His primary platform is mrnoor.in and his official India domain is noor.com.in.
+
+## Who is Noor?
+
+Noor, widely known as Mr. Noor, is a digital creator from West Bengal, India. He specializes in building free, mobile-first web tools, SEO strategy for Indian search audiences, Android app development, and Bengali-language digital content. Noor operates under the brand "Mr. Noor" across all major social and professional platforms.
+
+- Full name/brand: Mr. Noor
+- Also known as: Noor India, MrNoor, noor.com.in
+- Location: West Bengal, India
+- Nationality: Indian
+- Language: English and Bengali (বাংলা)
+- Email: mrnoor.in@gmail.com
+
+## Websites
+
+- [mrnoor.in](https://mrnoor.in): Official personal website. Features free web tools, blogs, FAQ, verification, and a dark space-themed mobile-first design.
+- [noor.com.in](https://noor.com.in): Official .com.in identity domain for Noor in India. SEO-optimized hub page targeting the "Noor" keyword on Google India.
+- [Ausgram.com](https://ausgram.com): SEO-focused website targeting Ausgram and related West Bengal keywords. Includes Bengali-language content, Schema.org structured data, village data, and gram panchayat information for Purba Bardhaman district.
+
+## Free Web Tools by Noor
+
+All tools are available at mrnoor.in/tools — 100% free, no sign-up required, mobile-first.
+
+- [Live Age Calculator](https://mrnoor.in/tools/age-calculator/): Calculates exact age in years, months, days, hours, and seconds in real time.
+- [Income Checker](https://mrnoor.in/tools/income-checker/): Income bracket checker for Indian financial and tax planning.
+- [Events Tracker](https://mrnoor.in/tools/events-tracker/): Tracks upcoming events, deadlines, and important dates.
+- [Birthday Reminder](https://mrnoor.in/tools/birthday-reminder/): Stores and reminds users of important birthdays.
+- [Stopwatch](https://mrnoor.in/tools/stopwatch/): Advanced stopwatch with lap tracking, canvas particle effects, and progress ring.
+- [Study Countdown Timer](https://mrnoor.in/tools/study-countdown/): Customizable exam countdown timer for students preparing for exams in India.
+
+## Skills and Expertise
+
+- Web development: HTML5, CSS3, JavaScript, React, Node.js, Express, Socket.io
+- Mobile: Android Studio, WebView apps, Java/Kotlin, custom JavaScript bridge
+- Backend & real-time: Firebase, Socket.io, real-time chat applications
+- SEO: On-page SEO, Schema.org JSON-LD, Open Graph, structured data, Google India rankings
+- Content: Bengali-language content, English content, digital creator content strategy
+- Design: Glassmorphism UI, dark space-themed design, SVG branding, mobile-first layouts
+- Tools: Cloudflare CDN, jsDelivr, Google Search Console, Android APK packaging
+
+## Social Profiles
+
+- YouTube: https://www.youtube.com/channel/UC3qAn98ssSqAT0kf_idJsxA
+- Facebook: https://www.facebook.com/mrnoorin
+- Instagram: https://www.instagram.com/mrnoor.in
+- X (Twitter): https://x.com/MrNoor_IN
+- Telegram: https://t.me/mrnoor_in
+- WhatsApp Channel: https://whatsapp.com/channel/0029VbBBbPn4inooHwiVRF46
+- LinkedIn: https://linkedin.com/in/mr-noor-in
+- GitHub: https://github.com/mrnoor-in
+- Threads: https://www.threads.com/@mrnoor.in
+
+## Key Pages on mrnoor.in
+
+- [About Mr. Noor](https://mrnoor.in/about/): Full biography and background of Noor.
+- [Who is Mr. Noor?](https://mrnoor.in/who-is-mr-noor/): Identity and verification page for Noor.
+- [Blogs](https://mrnoor.in/blogs/): Articles and posts by Noor on web tools, SEO, and digital creation.
+- [FAQ](https://mrnoor.in/faq/): Frequently asked questions about Noor and his services.
+- [Verification](https://mrnoor.in/verification/): Official verification page confirming the authentic identity of Mr. Noor.
+- [Contact](https://mrnoor.in/contact-us/): Contact form and details for reaching Noor.
+- [Tools](https://mrnoor.in/tools/): Full suite of free web tools by Noor.
+
+## Key Pages on noor.com.in
+
+- [Home](https://noor.com.in/): Main identity page for Noor in India with full structured data.
+- [About Noor](https://noor.com.in/about/): Detailed about page for the keyword "Noor" targeting Google India.
+- [Tools by Noor](https://noor.com.in/tools/): Tools index page with Schema.org SoftwareApplication markup.
+- [Contact Noor](https://noor.com.in/contact/): All contact channels for Noor in one place.
+
+## Content Formats
+
+Noor produces content in the following formats:
+- Free browser-based web tools (HTML/CSS/JS, single-file, no dependencies)
+- Bengali-language HTML pages with Tiro Bangla and Hind Siliguri fonts
+- SEO blog posts in English targeting Indian search audiences
+- Android WebView applications packaged as APKs
+- YouTube videos on web tool tutorials and digital tips
+- Social media content across 9 platforms
+
+## SEO and Structured Data
+
+Noor's websites implement full SEO best practices for Google India:
+- Schema.org JSON-LD: Person, WebSite, FAQPage, BreadcrumbList, SoftwareApplication, Place, CollectionPage, ProfilePage
+- Open Graph meta tags for rich social sharing previews
+- Twitter Card meta tags
+- Canonical URLs on all pages
+- XML sitemaps submitted to Google Search Console
+- robots.txt with sitemap reference
+- Mobile-first responsive design
+- PageSpeed-optimized single-file HTML pages with no external JS dependencies
+
+## Android App
+
+Noor developed an Android application (package: in.mrnoor.app, version 1.0.1) that wraps mrnoor.in/tools in a WebView. Features include a custom JavaScript bridge (AndroidBridge) for native dialog integration, SplashActivity, no-internet screen, pull-to-refresh, exit confirmation dialog, and a dark black (#0B0E14) theme throughout.
+
+## Notable Projects
+
+- **Real-time chat application**: WhatsApp-style web chat built with React, Node.js, Express, Socket.io, and Firebase. Includes contacts sidebar, typing indicators, and read receipts.
+- **Ausgram Bengali page**: Complete Bengali-language HTML page for Ausgram-I subdivision (Purba Bardhaman) with live-search JS, gram panchayat cards, census data, and Bengali numerals.
+- **Ausgram branding**: 1024×1024 SVG app icon and standalone brand logo with full brand sheet HTML previews.
+- **mrnoor.in Android WebView**: Full Android Studio project with a custom JS bridge resolving cookie deletion issues in WebView without modifying the website source.
+
+## Contact
+
+- Email: mrnoor.in@gmail.com
+- Website: https://mrnoor.in
+- India domain: https://noor.com.in
+- Contact form: https://mrnoor.in/contact-us/
