@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://noor.com.in/sitemap.xml
+
+# Host
+Host: noor.com.in
